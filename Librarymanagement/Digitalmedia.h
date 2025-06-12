@@ -1,0 +1,4 @@
+#ifndef DIGITALMEDIA_H
+#define DIGITALMEDIA_H
+
+#endif // DIGITALMEDIA_H
