@@ -1,0 +1,16 @@
+release/main.o
+release/mainwindow.o
+release/library.o
+release/resource.o
+release/book.o
+release/article.o
+release/thesis.o
+release/digitalmedia.o
+release/user.o
+release/student.o
+release/faculty.o
+release/loan.o
+release/reservation.o
+release/libraryevent.o
+release/notification.o
+release/moc_mainwindow.o

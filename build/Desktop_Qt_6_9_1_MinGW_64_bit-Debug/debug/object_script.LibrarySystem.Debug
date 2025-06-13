@@ -1,0 +1,16 @@
+debug/main.o
+debug/mainwindow.o
+debug/library.o
+debug/resource.o
+debug/book.o
+debug/article.o
+debug/thesis.o
+debug/digitalmedia.o
+debug/user.o
+debug/student.o
+debug/faculty.o
+debug/loan.o
+debug/reservation.o
+debug/libraryevent.o
+debug/notification.o
+debug/moc_mainwindow.o
