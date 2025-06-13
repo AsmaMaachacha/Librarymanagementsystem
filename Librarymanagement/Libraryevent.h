@@ -1,4 +1,0 @@
-#ifndef LIBRARYEVENT_H
-#define LIBRARYEVENT_H
-
-#endif // LIBRARYEVENT_H

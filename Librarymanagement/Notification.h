@@ -1,4 +1,0 @@
-#ifndef NOTIFICATION_H
-#define NOTIFICATION_H
-
-#endif // NOTIFICATION_H
